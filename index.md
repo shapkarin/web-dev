@@ -413,6 +413,7 @@ Programming libraries are available. Any Javascript developer can build a simple
       - Testnet [https://testnet.aenalytics.org](https://testnet.aenalytics.org)
   - #### Wallets
     - Base æpp (mobile) [https://base.aepps.com](https://base.aepps.com)
+    - Box æpp (iOS/Android) [https://www.aebox.io/](https://www.aebox.io/)
     - Ledger Hardware Wallet (desktop) [https://base.aepps.com](https://base.aepps.com)
     - Trust Wallet (Binance)  [https://trustwallet.com](https://trustwallet.com)
     - Waellet (browser extension) [https://waellet.com](https://waellet.com)
@@ -420,6 +421,7 @@ Programming libraries are available. Any Javascript developer can build a simple
     - AirGap (iOS/Android) [https://airgap.it](https://airgap.it)
     - ArkaneNetwork [https://arkane.network](https://arkane.network)
     - Atomic Wallet [https://atomicwallet.io/](https://atomicwallet.io/)
+
     
   - #### Development grants
     - [Aeternity Foundation](https://www.aeternity-foundation.org)
@@ -467,6 +469,7 @@ A wide selection of open source wallets and clients have been created by members
 - [![](./img/logos/Waellet_icon.png) **Waellet**](https://waellet.com)
 - [![](./img/logos/Arkane_Wallet_icon.png) **Arkane Wallet**](https://arkane.network)
 - [![](./img/logos/Atomic_Wallet_icon.jpeg) **Atomic Wallet**](https://atomicwallet.io/)
+- [![](./img/logos/Box_aepp_icon.svg) **Box Wallet**](https://www.aebox.io/)
 
 :::
 
@@ -481,9 +484,6 @@ AE tokens are accessible through many exchanges worldwide.
 - [![](./img/logos/Okex_icon.svg) okex](https://www.okex.com)
 - [![](./img/logos/Huobi_icon.svg) huobi](https://www.huobi.com)
 - [![](./img/logos/Gateio_icon.svg) gate.io](https://www.gate.io)
-- [![](./img/logos/Changelly_icon.svg) changelly](https://changelly.com)
-- [![](./img/logos/JellySwap_icon.svg) jelly swap](https://jelly.market)
-- [![](./img/logos/BcBitcoin_icon.png) bcbitcoin](https://www.bcbitcoin.co.uk)
 
 More exchanges can be found at <a href="https://coinmarketcap.com/currencies/aeternity/markets">CoinMarketCap</a>
 
@@ -851,8 +851,6 @@ Here are some projects that are powered by æternity technology.
     Digital identity verification and document authentication for added online security. 
 - [![](./img/logos/logo_lexon.png)*Lexon*](http://lexon.tech)
     Human readable programming language
-- [![](./img/logos/logo_jelly_swap.png)*JELLY*](https://jelly.market)
-    Atomic swaps from ETH, BTC to AE
 - [![](./img/logos/logo_ampnet.png)*AMPnet*](https://ampnet.io)
     All-in-one platform for running energy cooperatives
 - [![](./img/logos/logo_cryptotask.png)*Crypto Task*](https://www.cryptotask.org/)
